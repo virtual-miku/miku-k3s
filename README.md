@@ -1,9 +1,14 @@
 <div align="center">
 
-  # Lightweight Kubernetes (K3s)
+# Lightweight Kubernetes (K3s)
 
-  <p>Otomatisasi deployment cluster K3s di Azure VM menggunakan Bicep IaC (Infrastructure as Code)</p>
-  
+<p>Otomatisasi deployment cluster K3s di Azure VM menggunakan Bicep IaC (Infrastructure as Code)</p>
+
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![K3s](https://img.shields.io/badge/K3s-FFC61C?style=for-the-badge&logo=kubernetes&logoColor=black)](https://k3s.io)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
+[![Bicep](https://img.shields.io/badge/Bicep-519ADA?style=for-the-badge&logo=azure&logoColor=white)](https://learn.microsoft.com/azure/azure-resource-manager/bicep/)
+
 </div>
 
 ### Memulai
